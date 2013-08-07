@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="spireapi.type.index.right" template="" lang="" group="0" version="1.000">
+		<grid>
+			<columns>
+				<column/>
+			</columns>
+			<rows>
+				<row>
+					<button label="Add" onclick="window.open(egw::link('/index.php','menuaction=spireapi.type_ui.edit'),'_blank','dependent=yes,width=500,height=300,scrollbars=yes,status=yes'); return false;"/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>

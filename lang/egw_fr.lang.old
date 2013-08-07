@@ -1,0 +1,179 @@
+a translation already exist for the selected key/app/lang association	spireapi	fr	Une traduction existe déjà pour l'association entrée : clé/application/langue
+about	spireapi	fr	A propos de
+actions	spireapi	fr	Actions
+activities	spireapi	fr	Activités
+activity	spireapi	fr	Activité
+add a new reference	spireapi	fr	Ajouter une référence
+add area	spireapi	fr	Ajouter une zone
+add employee	spireapi	fr	Ajouter un collaborateur
+add employee data	spireapi	fr	Ajouter des informations sur le collaborateur
+add function	spireapi	fr	Ajouter une fonction
+add global	spireapi	fr	Ajouter global
+add site	spireapi	fr	Ajouter un site
+add team	spireapi	fr	Ajouter une équipe
+add translation	spireapi	fr	Ajouter une traduction
+add vat	spireapi	fr	Ajouter un code tva
+address one	spireapi	fr	Addresse un
+address two	spireapi	fr	Addresse deux
+all sites	spireapi	fr	Tous les sites
+all status	spireapi	fr	Tous les statuts
+all timelogs	spireapi	fr	Tous les temps
+area	spireapi	fr	Zone
+area created	spireapi	fr	Zone créée
+area deleted	spireapi	fr	Zone supprimée
+area updated	spireapi	fr	Zone mise à jour
+areas	spireapi	fr	Zones
+areas management	spireapi	fr	Gestion des zones
+case	spireapi	fr	Cas
+change date	spireapi	fr	Date de modification
+changed by	spireapi	fr	Modifié par
+check all	spireapi	fr	Tout coché
+city	spireapi	fr	Ville
+client	spireapi	fr	Client
+code	spireapi	fr	Code
+color	spireapi	fr	Couleur
+company repository	spireapi	fr	Référentiel de l'organisation
+company's phone	spireapi	fr	Téléphone de l'entreprise
+configuration updated	spireapi	fr	Configuration mise à jour
+consistency checking	spireapi	fr	Contrôles de cohérence
+contact name	spireapi	fr	Nom de l'utilisateur
+contacts	spireapi	fr	Contacts
+cost center	spireapi	fr	Centre de coût
+country	spireapi	fr	Pays
+create a new group	spireapi	fr	Créer un nouveau groupe
+create new links	spireapi	fr	Créer un nouveau lien
+creation assistant	spireapi	fr	Assistant de création
+creation date	spireapi	fr	Date de création
+daily cost	spireapi	fr	Coût/j
+daily turnover	spireapi	fr	CA/j
+date modified	spireapi	fr	Date de modification
+dossiers	spireapi	fr	Dossiers
+edit area	spireapi	fr	Modifier la zone
+edit employee	spireapi	fr	Modifier le collaborateur
+edit employee data	spireapi	fr	Modifier les informations du collaborateur
+edit function	spireapi	fr	Modifier la fonction
+edit site	spireapi	fr	Modifier le site
+edit team	spireapi	fr	Modifier l'équipe
+edit translation	spireapi	fr	Modifier la traduction
+edit vat	spireapi	fr	Modifier le code TVA
+employee	spireapi	fr	Collaborateur
+employee already exists	spireapi	fr	Le collaborateur existe déjà
+employee created	spireapi	fr	Collaborateur créé
+employee data created	spireapi	fr	Informations du collaborateur ajoutées
+employee data is overlapping with another data	spireapi	fr	Certaines dates se chevauchent !
+employee data updated	spireapi	fr	Informations du collaborateur mises à jour
+employee deleted	spireapi	fr	Collaborateur supprimé
+employee management	spireapi	fr	Gestion des collaborateurs
+employee updated	spireapi	fr	Collaborateur mis à jour
+employees	spireapi	fr	Collaborateurs
+end date must be after the start date	spireapi	fr	La date de fin doit être après la date de début...
+error while saving	spireapi	fr	Erreur à l'enregistrement
+error while saving : employee already exists	spireapi	fr	Erreur à l'enregistrement : le collaborateur existe déjà...
+existing links	spireapi	fr	Lien existants
+expert	spireapi	fr	Expert
+export	spireapi	fr	Export
+export timelogs	spireapi	fr	Export des feuilles de temps
+exported timelogs	spireapi	fr	Temps exportés
+fiche	spireapi	fr	Fiche
+file type	spireapi	fr	Type de fichier
+financial repository	spireapi	fr	Référentiel Finance
+forfait payment	spireapi	fr	Remboursement forfait
+function	spireapi	fr	Fonction
+function created	spireapi	fr	Fonction ajoutée
+function deleted	spireapi	fr	Fonction supprimée
+function updated	spireapi	fr	Fonction mise à jour
+functions	spireapi	fr	Fonctions
+functions management	spireapi	fr	Gestion des fonctions
+general	spireapi	fr	Général
+header	spireapi	fr	Entête
+history	spireapi	fr	Historique
+hourly cost	spireapi	fr	Coût/h
+hourly turnover	spireapi	fr	CA/h
+hr repository	spireapi	fr	Référentiel RH
+id	spireapi	fr	ID
+import date	spireapi	fr	Date d'import
+import projects	spireapi	fr	Importer les projets
+in charge	spireapi	fr	en charge
+inactive	spireapi	fr	Inactif
+internal matricule	spireapi	fr	Matricule interne
+intracommunity	spireapi	fr	Intracommunautaire
+jurisdiction	spireapi	fr	Juridiction
+locality	spireapi	fr	Ville
+mail	spireapi	fr	Email
+manager	spireapi	fr	Manager
+manager email	spireapi	fr	Email du manager
+matricule	spireapi	fr	Matricule
+max hour day	spireapi	fr	Max heure / jour
+max hour month	spireapi	fr	Max heure / mois
+max hour week	spireapi	fr	Max heure / semaine
+misc.	spireapi	fr	Divers
+monthly ratio objective	spireapi	fr	Objectif de ratio d'activité mensuel
+monthly report	spireapi	fr	Rapport mensuel
+monthly turnover objective	spireapi	fr	Objectif CA mensuel
+my timelogs	spireapi	fr	Mes temps
+national	spireapi	fr	National
+nature of time	spireapi	fr	Natures de temps
+new rate	spireapi	fr	Nouveau taux
+new timelog	spireapi	fr	Nouveau temps
+order	spireapi	fr	Ordre
+ordre	spireapi	fr	Ordre
+parent	spireapi	fr	Parent
+parent company	spireapi	fr	Entreprise parente
+permission denied, please contact your administrator!!!	spireapi	fr	Permission refusée, veuillez contacter votre administrateur.
+possible following status	spireapi	fr	Statut suivant possible
+postal code	spireapi	fr	Code postal
+prime payment	spireapi	fr	Remboursement prime
+primes per user	spireapi	fr	Primes par utilisateurs
+print pdf	spireapi	fr	Imprimer PDF
+profit center	spireapi	fr	Centre de profit
+project code	spireapi	fr	Code projet
+rate	spireapi	fr	Taux
+rate & objectives	spireapi	fr	Taux & Objectifs
+repository	spireapi	fr	Référentiel
+responsable	spireapi	fr	Responsable
+role	spireapi	fr	Rôle
+search area '%1'	spireapi	fr	Chercher la zone '%1'
+search for '%1'	spireapi	fr	Recherche de  '%1'
+search site '%1'	spireapi	fr	Rechercher du site  '%1'
+search vat '%1'	spireapi	fr	Recherche du code tva  '%1'
+select an action...	spireapi	fr	Sélectionner une action ...
+seller	spireapi	fr	Vender
+send by mail	spireapi	fr	Envoyer par email
+short description	spireapi	fr	Description courte
+site	spireapi	fr	Site
+site created	spireapi	fr	Site créé
+site deleted	spireapi	fr	Site supprimé
+site updated	spireapi	fr	Site mis à jour
+sites management	spireapi	fr	Gestion des sites
+sleep	spireapi	fr	Endormi
+source	spireapi	fr	Source
+spireapi	common	fr	SpireAPI
+street	spireapi	fr	Rue
+team	spireapi	fr	Equipe
+team created	spireapi	fr	Equipe ajoutée
+team deleted	spireapi	fr	Equipe supprimée
+team updated	spireapi	fr	Equipe mise à jour
+teams	spireapi	fr	Equipes
+teams management	spireapi	fr	Gestion des équipes
+the managers receive all spid's tickets	spireapi	fr	Les managers recoivent tout les tickets spid
+time rate	spireapi	fr	Ratio temps
+timelogs per project	spireapi	fr	Temps par projet
+timelogs per user	spireapi	fr	Temps par utilisateur
+translation	spireapi	fr	traduction
+translation created	spireapi	fr	traduction ajoutée
+translation deleted	spireapi	fr	traduction supprimée
+translation management	spireapi	fr	Gestion des traductions
+translation updated	spireapi	fr	traduction mise à jour
+unvalidated timelogs	spireapi	fr	Temps non validés
+updated by	spireapi	fr	Mis à jour par
+upload file	spireapi	fr	Uploader fichier
+user manual	spireapi	fr	Manuel utilisateur
+vat	spireapi	fr	Tva
+vat created	spireapi	fr	Code TVA créée
+vat deleted	spireapi	fr	Code TVA supprimé
+vat updated	spireapi	fr	Code TVA mis à jour
+vats management	spireapi	fr	Gestion des codes TVA
+weekly report	spireapi	fr	Rapport hebdomadaire
+whole query	spireapi	fr	requête entière
+yearly ratio objective	spireapi	fr	Objectif annuel : ratio
+yearly turnover objective	spireapi	fr	Objectif annuel : CA

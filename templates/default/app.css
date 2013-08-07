@@ -1,0 +1,5 @@
+.total{font-weight:bold;background-color: lightblue;}
+.match{font-weight:bold;background-color:green;}
+.nomatch{font-weight:bold;background-color:red;}
+.bold{font-weight:bold;}
+.popupManual{visibility:hidden;}

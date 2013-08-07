@@ -1,0 +1,183 @@
+a translation already exist for the selected key/app/lang association	spireapi	en	A translation already exist for the selected key/app/lang association
+about	spireapi	en	About
+actions	spireapi	en	Actions
+activities	spireapi	en	Activities
+activity	spireapi	en	Activity
+add a new reference	spireapi	en	Add a new reference
+add area	spireapi	en	Add area
+add employee	spireapi	en	Add employee
+add employee data	spireapi	en	Add employee data
+add function	spireapi	en	Add function
+add global	spireapi	en	Add global
+add site	spireapi	en	Add site
+add team	spireapi	en	Add team
+add translation	spireapi	en	Add translation
+add vat	spireapi	en	Add vat
+address one	spireapi	en	Address one
+address two	spireapi	en	Address two
+all sites	spireapi	en	All sites
+all status	spireapi	en	All status
+all timelogs	spireapi	en	All timelogs
+area	spireapi	en	Area
+area created	spireapi	en	area created
+area deleted	spireapi	en	area deleted
+area updated	spireapi	en	area updated
+areas	spireapi	en	Areas
+areas management	spireapi	en	areas management
+case	spireapi	en	Case
+change date	spireapi	en	Change date
+changed by	spireapi	en	Changed by
+check all	spireapi	en	Check all
+city	spireapi	en	City
+client	spireapi	en	Client
+code	spireapi	en	Code
+color	spireapi	en	Color
+company repository	spireapi	en	Company repository
+company's phone	spireapi	en	Company's phone
+configuration updated	spireapi	en	Configuration updated
+consistency checking	spireapi	en	Consistency checking
+contact name	spireapi	en	Contact name
+contacts	spireapi	en	Contacts
+cost center	spireapi	en	Cost center
+country	spireapi	en	Country
+create a new group	spireapi	en	Create a new group
+create new links	spireapi	en	Create new links
+creation assistant	spireapi	en	Creation assistant
+creation date	spireapi	en	Creation Date
+daily cost	spireapi	en	Daily cost
+daily turnover	spireapi	en	Daily turnover
+date modified	spireapi	en	Date modified
+dossiers	spireapi	en	Dossiers
+edit area	spireapi	en	Edit area
+edit employee	spireapi	en	Edit employee
+edit employee data	spireapi	en	Edit employee data
+edit function	spireapi	en	Edit function
+edit site	spireapi	en	Edit site
+edit team	spireapi	en	Edit team
+edit translation	spireapi	en	Edit translation
+edit vat	spireapi	en	Edit vat
+employee	spireapi	en	employee
+employee already exists	spireapi	en	Employee already exists
+employee created	spireapi	en	Employee created
+employee data created	spireapi	en	Employee data created
+employee data is overlapping with another data	spireapi	en	Employee data is overlapping with another data
+employee data updated	spireapi	en	Employee data updated
+employee deleted	spireapi	en	Employee deleted
+employee management	spireapi	en	Employee management
+employee updated	spireapi	en	Employee updated
+employees	spireapi	en	Employees
+end date must be after the start date	spireapi	en	End date must be after the start date
+error while saving	spireapi	en	Error while saving
+error while saving : employee already exists	spireapi	en	Error while saving : Employee already exists
+existing links	spireapi	en	Existing links
+expert	spireapi	en	Expert
+export	spireapi	en	Export
+export timelogs	spireapi	en	Export timelogs
+exported timelogs	spireapi	en	Exported timelogs
+fiche	spireapi	en	Fiche
+file type	spireapi	en	file type
+financial repository	spireapi	en	Financial repository
+forfait payment	spireapi	en	Forfait payment
+function	spireapi	en	Function
+function created	spireapi	en	function created
+function deleted	spireapi	en	function deleted
+function updated	spireapi	en	function updated
+functions	spireapi	en	Functions
+functions management	spireapi	en	functions management
+general	spireapi	en	General
+header	spireapi	en	Header
+help_manager_email	spireapi	en	help_manager_email
+history	spireapi	en	History
+hourly cost	spireapi	en	Hourly cost
+hourly turnover	spireapi	en	Hourly turnover
+hr repository	spireapi	en	HR repository
+id	spireapi	en	ID
+import date	spireapi	en	Import date
+import projects	spireapi	en	Import projects
+in charge	spireapi	en	in charge
+inactive	spireapi	en	Inactive
+internal matricule	spireapi	en	Internal matricule
+intracommunity	spireapi	en	Intracommunity
+jurisdiction	spireapi	en	Jurisdiction
+locality	spireapi	en	Locality
+mail	spireapi	en	Mail
+manager	spireapi	en	Manager
+manager email	spireapi	en	Manager Email
+matricule	spireapi	en	Matricule
+max hour day	spireapi	en	Max hour day
+max hour month	spireapi	en	Max hour month
+max hour week	spireapi	en	Max hour week
+misc.	spireapi	en	Misc.
+monthly ratio objective	spireapi	en	Monthly ratio objective
+monthly report	spireapi	en	Monthly report
+monthly turnover objective	spireapi	en	Monthly turnover objective
+my timelogs	spireapi	en	My timelogs
+national	spireapi	en	National
+nature of time	spireapi	en	Nature of time
+new rate	spireapi	en	New rate
+new timelog	spireapi	en	New timelog
+order	spireapi	en	Order
+ordre	spireapi	en	Ordre
+parent	spireapi	en	Parent
+parent company	spireapi	en	Parent company
+permission denied, please contact your administrator!!!	spireapi	en	Permission denied, please contact your administrator!!!
+possible following status	spireapi	en	Possible following status
+postal code	spireapi	en	Postal code
+prime payment	spireapi	en	Prime payment
+primes per user	spireapi	en	Primes per user
+print pdf	spireapi	en	Print PDF
+profit center	spireapi	en	Profit Center
+project code	spireapi	en	Project code
+rate	spireapi	en	Rate
+rate & objectives	spireapi	en	Rate & objectives
+repository	spireapi	en	Repository
+responsable	spireapi	en	Responsable
+responsible	spireapi	en	Responsible
+role	spireapi	en	Role
+search area '%1'	spireapi	en	Search area '%1'
+search for '%1'	spireapi	en	Search for '%1'
+search site '%1'	spireapi	en	Search site '%1'
+search vat '%1'	spireapi	en	Search vat '%1'
+select an action...	spireapi	en	Select an action...
+seller	spireapi	en	Seller
+send by mail	spireapi	en	Send by mail
+short description	spireapi	en	Short description
+site	spireapi	en	Site
+site created	spireapi	en	Site created
+site deleted	spireapi	en	Site deleted
+site updated	spireapi	en	Site updated
+sites management	spireapi	en	Sites management
+sleep	spireapi	en	Sleep
+source	spireapi	en	Source
+spireapi	common	en	SpireAPI
+street	spireapi	en	street
+tch /// on rend impossible la supression	spireapi	en	TCH /// On rend impossible la supression
+team	spireapi	en	team
+team created	spireapi	en	team created
+team deleted	spireapi	en	team deleted
+team updated	spireapi	en	team updated
+teams	spireapi	en	Teams
+teams management	spireapi	en	teams management
+the managers receive all spid's tickets	spireapi	en	The managers receive all spid's tickets
+time rate	spireapi	en	Time rate
+timelogs per project	spireapi	en	Timelogs per project
+timelogs per user	spireapi	en	Timelogs per user
+translation	spireapi	en	translation
+translation created	spireapi	en	translation created
+translation deleted	spireapi	en	translation deleted
+translation management	spireapi	en	Translation management
+translation updated	spireapi	en	translation updated
+unvalidated timelogs	spireapi	en	Unvalidated timelogs
+updated by	spireapi	en	Updated by
+upload file	spireapi	en	Upload file
+user manual	spireapi	en	User Manual
+vat	spireapi	en	Vat
+vat created	spireapi	en	vat created
+vat deleted	spireapi	en	vat deleted
+vat updated	spireapi	en	vat updated
+vats management	spireapi	en	Vats management
+weekly report	spireapi	en	Weekly report
+whole query	spireapi	en	whole query
+yearly ratio objective	spireapi	en	Yearly ratio objective
+yearly turnover objective	spireapi	en	Yearly turnover objective
+zone de chalandise	spireapi	en	Zone de chalandise

@@ -1,0 +1,37 @@
+Module SpireAPI
+
+This is a computer program for egroupware to manage referential
+
+
+Author
+SPIREA SARL - 16/20 avenue de l'agent Sarre 92700 Colombes - Tél : +33141192772 - Fax : +33147858449 - contact@spirea.fr
+http://www.spirea.fr
+
+License : GNU General Public License v.2.0 (GPL2)
+http://opensource.org/licenses/gpl-2.0.php
+This is free software, and as such comes with NO WARRANTY.
+
+
+Version - Egroupware 1.8
+
+1. Install the application SpireAPI
+- copy the folder spireapi to your eGroupware's root, at the same level as other modules
+- go in egroupware's setup, install the module spireapi
+- from eGroupware, as administrator : 
+-- Menu Admin/Applications : check the module is installed and enabled
+-- Menu Admin/Groups : add spireapi to your users (first to your groups...)
+
+3. Configuation
+- check and fill up the referential
+
+Use
+
+1. See online documentation online on www.spirea.fr
+
+Uninstall
+
+!!! WARNING !!! Uninstall the application will empty the database and delete all datas link to the application
+
+1. Go in egroupware's setup, select "remove" for the SpireAPI application; Click "save".
+
+2. You can then remove the spireapi folder in the eGroupware's tree

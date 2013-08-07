@@ -1,0 +1,38 @@
+Logiciel SpireAPI
+
+Ce logiciel est un programme informatique de gestion de référentiels
+
+Auteur
+Société SPIREA SARL - 16/20 avenue de l'agent Sarre 92700 Colombes - Tél : 0141192772 - Fax : 0147858449 - contact@spirea.fr
+http://www.spirea.fr
+
+Licence : GNU General Public License v.2.0 (GPL2)
+http://opensource.org/licenses/gpl-2.0.php
+cf. http://www.linux-france.org/article/these/gpl.html
+Ce logiciel est fournit gratuitement à la communauté eGroupware.  Le programme ne fait l'objet d'aucune garantie AUCUNE GARANTIE.
+
+Version - Egroupware 1.8
+
+Etapes d'installation
+
+1. Installer le module SpireAPI
+- copier le répertoire spireapi dans la racine Egroupware, au même niveau que les autres modules
+- aller dans le setup egroupware, installer l'application spireapi
+- dans egroupware, depuis un compte administrateur : 
+-- Menu Admin/Applications : vérifier que l'application est installée
+-- Menu Admin/Groupes : donner accès à spisession
+
+2. Configuation
+- vérifier et/ou remplir les référentiels
+
+Utilisation
+
+1. Voir la documentation en ligne sur www.spirea.fr
+
+Désinstallation
+
+!!! ATTENTION !!! La désinstallation entraine la suppression des tables et des données de l'application.
+
+1. aller dans le setup egroupware, sélectionner la coche "enlever" pour l'application SpireAPI. Cliquez sur "enregistrer"
+
+2. vous pouvez ensuite supprimer le répertoire spireapi dans la racine Egroupware

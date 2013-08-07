@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!-- $Id$ -->
+<overlay>
+	<template id="spireapi.employee.edit.data" template="" lang="" group="0" version="1.000">
+		<grid width="100%">
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row>
+					<description span="all" class="redItalic" align="center" id="msg"/>
+					<description/>
+				</row>
+				<row class="row">
+					<description value="User" class="bold"/>
+					<menulist>
+						<menupopup type="select-account" id="account_id" readonly="true"/>
+					</menulist>
+				</row>
+				<row class="row">
+					<description class="bold" value="Start date"/>
+					<date id="employee_data_date_start" needed="1"/>
+				</row>
+				<row class="row">
+					<description value="End date" class="bold"/>
+					<date id="employee_data_date_end" needed="1"/>
+				</row>
+				<row class="row">
+					<description value="Hourly cost" class="bold"/>
+					<textbox type="float" id="employee_data_hourly_cost"/>
+				</row>
+				<row class="row">
+					<description class="bold" value="Hourly turnover"/>
+					<textbox type="float" id="employee_data_hourly_turnover"/>
+				</row>
+				<row class="row">
+					<description value="Daily cost" class="bold"/>
+					<textbox type="float" id="employee_data_daily_cost"/>
+				</row>
+				<row class="row">
+					<description class="bold" value="Daily turnover"/>
+					<textbox type="float" id="employee_data_daily_turnover"/>
+				</row>
+				<row class="row">
+					<description class="bold" value="Monthly turnover objective"/>
+					<textbox type="float" id="employee_data_monthly_turnover_objective"/>
+				</row>
+				<row class="row">
+					<description class="bold" value="Monthly ratio objective"/>
+					<menulist>
+						<menupopup type="select-percent" id="employee_data_monthly_ratio_objective"/>
+					</menulist>
+				</row>
+				<row class="row">
+					<description value="Yearly turnover objective" class="bold"/>
+					<textbox type="float" id="employee_data_yearly_turnover_objective"/>
+				</row>
+				<row class="row">
+					<description value="Yearly ratio objective" class="bold"/>
+					<menulist>
+						<menupopup type="select-percent" id="employee_data_yearly_ratio_objective"/>
+					</menulist>
+				</row>
+				<row class="row">
+					<description value="Creation Date"/>
+					<hbox>
+						<menulist>
+							<menupopup type="select-account" no_lang="1" readonly="true" id="creator"/>
+						</menulist>
+						<date-time no_lang="1" readonly="true" id="creation_date"/>
+					</hbox>
+				</row>
+				<row class="row">
+					<description value="Date modified"/>
+					<hbox>
+						<menulist>
+							<menupopup type="select-account" no_lang="1" readonly="true" id="modifier"/>
+						</menulist>
+						<date-time no_lang="1" readonly="true" id="date_modified"/>
+					</hbox>
+				</row>
+				<row>
+					<hbox>
+						<button label="Save" id="button[save]"/>
+						<button label="Apply" id="button[apply]"/>
+						<button label="Cancel" id="button[cancel]"/>
+					</hbox>
+					<description/>
+				</row>
+			</rows>
+		</grid>
+	</template>
+</overlay>
